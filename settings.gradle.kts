@@ -21,3 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "EMVFusion"
 include(":app")
+include(":EMVFusion")
